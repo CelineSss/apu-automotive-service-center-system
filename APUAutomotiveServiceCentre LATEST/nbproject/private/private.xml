@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/models/Feedback.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/customer/MyFeedbacksPanel.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/common/DashboardDemoApp.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/data/feedbacks.txt</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/technician/UpdateStatusPanel.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/data/users.txt</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/data/appointments.txt</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/models/Appointment.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/common/AppointmentAbstract.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/models/Records.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/models/Customer.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/models/Manager.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/models/Payment.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/logic/IFeedback.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/logic/FeedbackManager.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/logic/AppointmentManager.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/common/IPayment.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/common/IAppointment.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/common/PaymentTestingUI.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/manager/PricingPanel.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/customer/MyAppointmentsPanel.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/customer/CustomerDashboard.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/models/Technician.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/technician/TechnicianDashboard.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/technician/MyCommentsPanel.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/logic/EmailUtil.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/common/FeedbackUIUtil.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/common/ProfilePanel.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/logic/ExcelExportUtil.java</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/data/payments.txt</file>
+            <file>file:/C:/Users/user/Documents/GitHub/APU-ASC-4.0/APUAutomotiveServiceCentre/src/ui/counterstaff/BookAppointmentCalendarUI.java</file>
+        </group>
+    </open-files>
+</project-private>

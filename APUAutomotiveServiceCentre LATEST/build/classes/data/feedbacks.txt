@@ -1,0 +1,20 @@
+2026-02-22, 16:20:00, APP0008, CUST007, Good value for money
+2026-02-27, 10:30:00, APP0010, CUST008, Friendly staff and efficient service
+2026-03-10, 11:30:00, APP0015, CUST001, Impressive attention to service!!!
+2026-03-10, 12:00:00, APP0015, TECH003, Your satisfaction matters to us!
+2026-03-12, 14:30:00, APP0016, CUST010, Professional and courteous service
+2026-04-10, 09:00:00, APP0001, CUST001, Will come back again!
+2026-04-20, 15:30:00, APP0029, TECH003, Quality is our priority
+2026-04-22, 17:15:00, APP0030, TECH003, We look forward to serving you again!
+2026-04-30, 11:04:00, APP0001, CUST001, Great service! Really satisfied with the results.
+2026-05-02, 21:19:00, APP0001, TECH001, Thanks so much!
+2026-05-03, 13:45:00, APP0033, CUST009, Quick turnaround time, great service
+2026-05-10, 10:30:00, APP0041, CUST005, Very knowledgeable technicians
+2026-05-18, 14:53:00, APP0045, TECH001, Glad to have served you, hope to see you again!
+2026-05-18, 15:01:00, APP0025, CUST003, Car wash completed perfectly, very satisfied!
+2026-05-20, 09:00:00, APP0040, CUST004, Very knowledgeable technicians
+2026-05-20, 14:00:00, APP0023, CUST001, Impressive attention to detail!!
+2026-05-26, 07:55:00, APP0069, CUST001, Great service, attitude nice
+2026-05-27, 09:41:00, APP0037, CUST001, 5 star service!
+2026-05-27, 15:44:03, APP0006, CUST001, Great Service
+2026-05-27, 15:49:51, APP0006, TECH001, Come next time...
